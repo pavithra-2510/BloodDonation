@@ -1,0 +1,48 @@
+body
+{
+}
+.group
+{
+width:30%;
+background:#FFFF99;
+color:#000;
+top:03%;
+left:34%;
+font-weight:bold;
+position:absolute;
+margin:10px;
+padding:15px;
+border:#336699 7px solid;
+}
+.form-control
+{
+width:300px;
+}
+.btn-success
+{
+	font-size: 22px;
+	font-family: cursive;
+	margin-left: 145px;
+
+}
+.btn-danger
+{
+	font-family: cursive;
+	font-size: 22px;
+}
+h1
+{
+background: #7879;
+color: #420;	
+font-size:38px;
+font-weight:bold;
+word-spacing:0.5em;
+text-transform:uppercase;
+text-align:center;
+}
+
+h2
+{
+	text-align: center;
+	text-transform: uppercase;
+}

@@ -1,0 +1,55 @@
+body
+{
+}
+.group
+{
+width:30%;
+background:#FFFF99;
+color:#000;
+left:34%;
+font-weight:bold;
+position:absolute;
+margin:10px;
+padding:15px;
+border:#336699 7px solid;
+}
+.grp
+{
+	font-weight: bold;
+	font-size: 30px;
+	color: #743;
+	background-color: #0098;
+}
+.form-control
+{
+width:300px;
+}
+.btn-success
+{
+width:200px;
+font-weight:bold;
+font-size:30px;
+}
+.bt
+{
+	font-size:20px;
+	font-weight: bold;
+	background: #3645;
+	color:#800;
+}
+.btn-danger
+{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h2
+{
+	text-align: center;
+	text-transform: uppercase;
+}
+h5
+{
+	position: absolute;
+	margin: 400 100 240 200;
+}

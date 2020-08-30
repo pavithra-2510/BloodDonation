@@ -1,0 +1,63 @@
+body
+{
+
+}
+.tablehead
+{
+	padding: 5px;
+	color:#305;
+	font-weight: bold;
+	font-size: 20px;
+	font-style: italic;
+	border-bottom: 5px solid #944;
+	background: #009879;
+	color: #ffffff;
+	text-align: left;
+
+}
+.tablecontent
+{
+	padding: 10px;
+	margin-right:  30px ;
+	color: #5242;
+	font-weight:bolder;
+	font-size: 20px;
+}
+.contenttable
+{
+
+	border-collapse: collapse;
+	margin:0 auto;
+	font-size: 0.9em;
+	font-weight: bold;
+	min-width: 800px;
+	overflow-x: auto;
+	margin-right: 200px;
+
+}
+.contenttable th,
+.contenttable td
+{
+	padding: 12px 15px;
+}
+
+.contenttable th
+{
+	background-color: dodgerblue;
+	color:white;
+}
+.contenttable td
+{
+	border: 2px solid #ddd;
+}
+h1
+{
+	
+	font-size:30px;
+font-weight:bold;
+word-spacing:0.5em;
+text-transform:uppercase;
+text-align:center;
+color:#305;
+
+}

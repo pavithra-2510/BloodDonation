@@ -1,0 +1,54 @@
+body
+{
+}
+.login
+{
+	width: 25%;
+	height: 40%;
+	background: #FFFF99;
+	top: 27%;
+	left: 34%;
+	position:absolute;
+    font-weight:bold;
+    margin:10px;
+    padding:15px;
+    border:#336699 7px solid;
+}
+.btn-success
+{
+width:50px;
+font-weight:bold;
+font-size:20px;
+}
+
+.login p{
+margin:0;
+font-weight:bold;
+font-size:25px;
+}
+.login input
+{
+width:100%;
+margin-bottom:20px;
+}
+.bt
+{
+	font-weight: bold;
+	font-color:#5829;
+	background: #989;
+}
+h1
+{
+font-weight:bold;
+font-style: italic;
+color:#800;
+background: #3645;
+}
+
+h3
+{
+	font-style: italic;
+	font-weight: bold;
+	font-color:#858;
+	background: #6353;
+}
